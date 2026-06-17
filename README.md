@@ -87,8 +87,9 @@ tools-hub/
 
 Deploy to Vercel in one click — zero config needed:
 
-- **Live URL**: _[your-vercel-url.vercel.app]_
-- **GitHub Repo**: _[your-github-repo-url]_
+- **Live URL**: https://tools-hub-beryl.vercel.app
+- **GitHub Repo**: https://github.com/sayan049/tools-hub
+
 
 ```bash
 # Or deploy via Vercel CLI
@@ -102,4 +103,4 @@ npx vercel --prod
 Free to use. No restrictions. Built for Digital Heroes.
 
 **Author:** Sayan Patra  
-**Email:** sayanpatra2@gmail.com
+**Email:** sayanpatra017@gmail.com
